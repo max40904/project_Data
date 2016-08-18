@@ -1,0 +1,6 @@
+model_checkpoint_path: "save_net100000.ckpt"
+all_model_checkpoint_paths: "save_net96000.ckpt"
+all_model_checkpoint_paths: "save_net97000.ckpt"
+all_model_checkpoint_paths: "save_net98000.ckpt"
+all_model_checkpoint_paths: "save_net99000.ckpt"
+all_model_checkpoint_paths: "save_net100000.ckpt"
